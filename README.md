@@ -88,14 +88,6 @@ https://resume-checker007.netlify.app
 </a>
 </p>
 
-<h2>📸 Screenshots (Optional)</h2>
-<p>You can add screenshots here later, for example:</p>
-<ul>
-  <li>Home / Analyzer page</li>
-  <li>Results view with scores</li>
-  <li>History page</li>
-</ul>
-
 <h2>📌 Future Improvements</h2>
 <ul>
   <li>Export analysis as PDF</li>
@@ -109,3 +101,4 @@ https://resume-checker007.netlify.app
   <li>Google Gemini API</li>
   <li>React, Vite, and open-source ecosystem</li>
 </ul>
+
