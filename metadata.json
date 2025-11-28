@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ResuMatch AI",
+  "description": "AI-powered Resume Analyzer and Job Match Predictor using Gemini API. Upload your resume and compare it against job descriptions for instant feedback.",
+  "requestFramePermissions": []
+}
